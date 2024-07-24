@@ -3,7 +3,7 @@
 
 **识别效果：**
 
-![条形码检测](assets/test.jpg)
+![条形码检测](assets/test.png)
 
 操作流程demo
 
